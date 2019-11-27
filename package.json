@@ -1,0 +1,19 @@
+{
+  "name": "twitter-bot-tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.test.js",
+  "scripts": {
+    "test": "jest",
+    "login": "jest",
+    "login-debug": "HEADLESS=false jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^2.0.0"
+  }
+}

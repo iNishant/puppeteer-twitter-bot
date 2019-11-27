@@ -1,0 +1,11 @@
+**/*.DS_Store
+**/*.pyc
+**/*.env
+**/*.pkl
+**/*.icloud
+**/*.vscode
+**/node_modules/
+**/dist/
+**/.next/
+**/yarn-error.log
+Icon?
